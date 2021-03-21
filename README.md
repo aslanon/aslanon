@@ -7,6 +7,3 @@ Proficient in HTML, CSS, JavaScript; plus modern libraries and frameworks (Vue.j
 
 ![](https://raw.githubusercontent.com/aslanon/github-stats/ae5642355512fd6ef4993e05d8d08e024c4b3bdd/generated/overview.svg)
 ![](https://raw.githubusercontent.com/aslanon/github-stats/ae5642355512fd6ef4993e05d8d08e024c4b3bdd/generated/languages.svg)
-
-
-```
